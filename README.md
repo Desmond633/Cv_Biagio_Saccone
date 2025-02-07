@@ -12,7 +12,7 @@ Ciao! Mi chiamo Biagio, ho 20 anni e sono appassionato di tecnologia, intelligen
 Linguaggi di programmazione: Python
 Machine Learning: Nozioni di base
 Strumenti: GitHub, Google Colab
-Content Creation: Creazione di contenuti su tecnologia e programmazione
+Content Creation: Creazione di contenuti
 Lingue: Italiano (madrelingua), Inglese, Francese e Cinese
 
 🎥 Content Creation
