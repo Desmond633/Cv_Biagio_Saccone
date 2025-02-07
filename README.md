@@ -14,8 +14,6 @@ Machine Learning: Nozioni di base
 Strumenti: GitHub, Google Colab
 Content Creation: Creazione di contenuti su tecnologia e programmazione
 Lingue: Italiano (madrelingua), Inglese, Francese e Cinese
-🚀 Progetti
-📌 (Guarda repository :D)
 
 🎥 Content Creation
 Mi piace condividere la mia passione per la tecnologia attraverso contenuti digitali. Creo materiale su Python, AI e il mondo dello sviluppo per aiutare altre persone a entrare in questo settore.
