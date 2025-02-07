@@ -21,7 +21,7 @@ Lingue: Italiano (madrelingua), Inglese, Francese e Cinese
 Mi piace condividere la mia passione per la tecnologia attraverso contenuti digitali. Creo materiale su Python, AI e il mondo dello sviluppo per aiutare altre persone a entrare in questo settore.
 
 📫 Contatti
-🔗 GitHub: Desmond633
+🔗 GitHub: Biagio Saccone
 📧 Email: biagiolvaoro63@gmail.com
 📱 (https://www.youtube.com/@Desmond63)
 
