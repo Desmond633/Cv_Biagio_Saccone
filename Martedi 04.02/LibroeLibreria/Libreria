@@ -1,0 +1,26 @@
+import Libro
+class Libreria:
+    def __init__(self):
+        self.catalogo = []
+
+    def aggiungi_libro(self, libro):
+        self.catalogo.append(libro)
+
+    def rimuovi_libro(self, isbn):
+        self.catalogo = [libro for libro in self.catalogo if libro.isbn != isbn]
+
+    def cerca_per_titolo(self, titolo):
+        return [libro for libro in self.catalogo if libro.titolo.lower() == titolo.lower()]
+
+    def mostra_catalogo(self):
+        for libro in self.catalogo:
+            print(libro.descrizione())
+
+libro1 = Libro("Il Signore degli Anelli", "J.R.R. Tolkien", "123456789")
+libro2 = Libro("Harry Potter", "J.K. Rowling", "987654321")
+
+libreria = Libreria()
+libreria.aggiungi_libro(libro1)
+libreria.aggiungi_libro(libro2)
+
+libreria.mostra_catalogo()
